@@ -1,0 +1,4 @@
+Using docker desktop
+
+1 - Install docker desktop
+2 - cmd => docker pull mysql
