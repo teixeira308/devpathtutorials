@@ -1,0 +1,5 @@
+git init
+
+git pull "github url"
+
+git remote add origin main
