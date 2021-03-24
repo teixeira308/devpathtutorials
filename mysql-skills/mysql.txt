@@ -1,4 +1,15 @@
 Using docker desktop
 
 1 - Install docker desktop
-2 - cmd => docker pull mysql
+cmd commands
+2 - docker login
+3 - docker pull mysql
+3 - docker run --name mysqlpc -e MYSQL_ROOT_PASSWORD=admin -d mysql:latest
+4 - docker exec -it mysqlpc  mysql -uroot -p
+
+mysql commands
+1 - CREATE DATABASE GAME_MNGMT;
+2 - SHOW DATABASES;
+3 - SELECT DATABASE(); -- to know which database is have the focus
+4 - SHOW TABLES;
+5 - 
