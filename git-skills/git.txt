@@ -1,11 +1,7 @@
-git init
+CMD Git commands:
 
-git pull "github url"
-
-git remote add origin main "github url"
-
-git add .
-
-git commit -m "git commit"
-
-git push origin master
+1 - git clone "github URL"
+2 - cd "github project"
+3 - git add .
+4 - git commit -m "commit message"
+5 - git push
