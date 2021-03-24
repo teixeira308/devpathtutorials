@@ -2,4 +2,10 @@ git init
 
 git pull "github url"
 
-git remote add origin main
+git remote add origin main "github url"
+
+git add .
+
+git commit -m "git commit"
+
+git push origin main
